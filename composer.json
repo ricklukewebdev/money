@@ -1,14 +1,14 @@
 {
     "name": "ricklukewebdev/money",
-    "description": "A package to handle money values correctly in PHP.",
+    "description": "A small package to handle money values correctly in PHP.",
     "type": "library",
     "keywords": [
         "Money",
         "Currency",
-        "FLoats"
+        "Floats"
     ],
     "require": {
-        "php": "^7.1 || ^8.0"
+        "php": "^7.1 || ^8.0 || ^8.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.5 || ^8.0 || ^9.5"
