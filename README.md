@@ -1,5 +1,7 @@
 # Money
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/ricklukewebdev/money.svg?style=flat)](https://packagist.org/packages/ricklukewebdev/money)
+
 Do you recognize the problem of retrieving money values from forms in various formats, and are you having trouble to handle these values correctly or storing them in the database?
 
 That's exactly the issue that this small library solves. And it's done very easily:
